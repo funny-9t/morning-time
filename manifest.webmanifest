@@ -1,0 +1,20 @@
+{
+  "id": "./morning-time",
+  "name": "Morning time · 晨间手帐",
+  "short_name": "Morning time",
+  "description": "一个可离线使用的温柔晨间流程。",
+  "start_url": "./Morning%20time.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffdf5",
+  "theme_color": "#f0b877",
+  "icons": [
+    {
+      "src": "morning-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
